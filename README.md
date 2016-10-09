@@ -1,3 +1,3 @@
 # CS-142
 
-Repository of CS 142 labs.
+No explanation needed.
